@@ -1,0 +1,88 @@
+{
+  "name": "Kalkulator Kuota Internet",
+  "short_name": "Rp Kuota",
+  "start_url": "https://jxz3y5iooyh3zec03wk4zd-internet.blogspot.com/2025/10/2UvTO8uyprx0kBQKX72whASxTH53c8qI-kalkulator-internet.html?source=pwa",
+  "scope": "https://jxz3y5iooyh3zec03wk4zd-internet.blogspot.com",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F0F6FA",
+  "theme_color": "#F0F6FA",
+  "description": "Kalkulator Kuota Internet By Selangkah Lebih Maju",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "categories": ["finance", "utilities"],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxUBf_I7TUzDDTbpOwHC6I8EuMe0BJNPdF78zyYVpj7gXS2xCryK2aBhjVpD86puX5lnsglIZoh7aRcaP8ZipJFpbapCWY8U_84YTXTxSnrgwqq9-iW6-L8aMSWyYgILb0CFH4yVPuB6o76Ij72N84YhXSoHtyjLdg0afRl9MSa2P5UGUUve-_Od5QaLU/s1600/ikon_512_v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxUBf_I7TUzDDTbpOwHC6I8EuMe0BJNPdF78zyYVpj7gXS2xCryK2aBhjVpD86puX5lnsglIZoh7aRcaP8ZipJFpbapCWY8U_84YTXTxSnrgwqq9-iW6-L8aMSWyYgILb0CFH4yVPuB6o76Ij72N84YhXSoHtyjLdg0afRl9MSa2P5UGUUve-_Od5QaLU/s1600/ikon_512_v2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7DXtUZs_pK-kRfkIDYVnRJ162XbEsrg-_yFG0esfTv3wA481IeOhA2X-55csV1iJbsLUbzDfY6mzXeJGoDIWNDPW1TvkEd0to4WzEkcmvwvBk5XcwOsuSYFcn41sGXN-13jHrY4jEROv4QoYQTDQZ1mxuzxUP1WvAvmsrEyYsVZ6uzmlObMzEc8683Fk/s1600/favicon_icon_180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDABUvLpwz8A7zyfKcf-6XisF_Vw4Q_IY6klpCS1nmjVjvOjGEAPTL2IxDUg4TsdCwlKcoowWQ11KVVte_Z4nbR1A1Dp7ZDc0rUkQUfYZKhVuCV4K7wtssTC0xnwJs1mvyfZNCbQirpS0rZEpx-Ae-KxgyJbqcs7LRW87UL6GRgKX-fAMmrXnuMorvi_4/s144/favicon_icon_144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS_NagNPUIESeVIAbRRgBdaxDBJQK1-iFfLSmexpd4xoCk24AkHpL-okcyJb5ubmwVOMd_qDgiUrzHfnITh3yhpEr_BpwbtRE66Whnf8UDO751LUJbltv0CDtQmMGoVEt1poxHlj_iEf6NqfnoFFyawbD6mnkCyOX8yq8Cn0-XaBqsdGDoNivP5VHTIxc/s96/favicon_icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwEMtUKNebF5xQqBCG0JfNExhb0Al7FKl7WADfG8B0cOCigD8Yy01ikJmzFegFIrKS39LhUKbjHTFHPPeqf_8HtcA0IYYtmssGSwaiihNzBgbIko4MvTJXKsY3omZxGJtRCBnbVt8MZR2kiBWvVYORumsEryeKpoo9KD9S8VRaBmxoDjyqBs1K3C9lYRA/s1024/favicon_icon_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPLRKo6iDJxPu1LQUXPfO9KAH_Tg1fS9KCtcJUm_ezPIxuRIAH3O50kTq3MFmc5m5_mTZLTA06OfkmYMFORYcX2tvb-gyt-WiNY9UUNYVgHcUeov-lviHNslcL-5hD9OHOwMd1ogo-GKX5cu1uKApGFyxyQxw8668J6oxtWfAip6SX2_iBmen0gIcCX2w/s1600/preview_kalkulator_kuota_internet_mobile.jpg",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tampilan Mobile"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ZnNyt65v-is12F1bhoMs1s9shAgiGwqGjd1-kQj6G6mc_cKQ-exH2u7iIe3Na_JT8uM7rYUTo83PDJCNYv9G5vCP257BrUHS9hoJjteS7-m7M43ISFqyDQxjIdkzsZ0-vcfJo-n1ovstOvDnywYJiWQPYqQlfosFzB8v4OwiSXlj2Di9OjdD8d_GVns/s1600/preview_kalkulator_kuota_internet_dekstop.jpg",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tampilan Desktop"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Kalkulator Kuota Internet",
+      "short_name": "Rp Kuota",
+      "description": "Langsung ke halaman kalkulator by selangkah lebih maju",
+      "url": "https://jxz3y5iooyh3zec03wk4zd-internet.blogspot.com/2025/10/2UvTO8uyprx0kBQKX72whASxTH53c8qI-kalkulator-internet.html?source=shortcut",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrbtVQvGA6eVSA_ubhMOH1ndB63eMllTTEGnen1XKdsHFz9N8uQ_smVsvkNOhmy-nePU7f0cupvosFmtTbUP1Wo_6k91P23c3bcLY9E33WZTrLJIghGin60O4rZUIsrXF08FwYx4pw7GSMHak6e_qwmpGSQk0rHgZ_J0u_5h0qK7HhiqREQsiI27RH7F8/s1600/favicon_icon_192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "display_override": ["standalone", "minimal-ui"],
+  "prefer_related_applications": false,
+  "id": "https://jxz3y5iooyh3zec03wk4zd-internet.blogspot.com/2025/10/2UvTO8uyprx0kBQKX72whASxTH53c8qI-kalkulator-internet.html",
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  }
+}

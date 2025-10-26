@@ -1,0 +1,88 @@
+{
+  "name": "Kalkulator Harga Jual Online",
+  "short_name": "Harga Online",
+  "start_url": "https://l5ttxobqewiyxjqoofyqtt-harga-online.blogspot.com/2025/10/6HgoHo18LaunIDkZNDPRey-harga-jual-online.html?source=pwa",
+  "scope": "https://l5ttxobqewiyxjqoofyqtt-harga-online.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F0F6FA",
+  "theme_color": "#F0F6FA",
+  "description": "Kalkulator Harga Jual Online By Selangkah Lebih Maju",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "categories": ["finance", "utilities"],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxUBf_I7TUzDDTbpOwHC6I8EuMe0BJNPdF78zyYVpj7gXS2xCryK2aBhjVpD86puX5lnsglIZoh7aRcaP8ZipJFpbapCWY8U_84YTXTxSnrgwqq9-iW6-L8aMSWyYgILb0CFH4yVPuB6o76Ij72N84YhXSoHtyjLdg0afRl9MSa2P5UGUUve-_Od5QaLU/s1600/ikon_512_v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxUBf_I7TUzDDTbpOwHC6I8EuMe0BJNPdF78zyYVpj7gXS2xCryK2aBhjVpD86puX5lnsglIZoh7aRcaP8ZipJFpbapCWY8U_84YTXTxSnrgwqq9-iW6-L8aMSWyYgILb0CFH4yVPuB6o76Ij72N84YhXSoHtyjLdg0afRl9MSa2P5UGUUve-_Od5QaLU/s1600/ikon_512_v2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7DXtUZs_pK-kRfkIDYVnRJ162XbEsrg-_yFG0esfTv3wA481IeOhA2X-55csV1iJbsLUbzDfY6mzXeJGoDIWNDPW1TvkEd0to4WzEkcmvwvBk5XcwOsuSYFcn41sGXN-13jHrY4jEROv4QoYQTDQZ1mxuzxUP1WvAvmsrEyYsVZ6uzmlObMzEc8683Fk/s1600/favicon_icon_180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDABUvLpwz8A7zyfKcf-6XisF_Vw4Q_IY6klpCS1nmjVjvOjGEAPTL2IxDUg4TsdCwlKcoowWQ11KVVte_Z4nbR1A1Dp7ZDc0rUkQUfYZKhVuCV4K7wtssTC0xnwJs1mvyfZNCbQirpS0rZEpx-Ae-KxgyJbqcs7LRW87UL6GRgKX-fAMmrXnuMorvi_4/s144/favicon_icon_144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS_NagNPUIESeVIAbRRgBdaxDBJQK1-iFfLSmexpd4xoCk24AkHpL-okcyJb5ubmwVOMd_qDgiUrzHfnITh3yhpEr_BpwbtRE66Whnf8UDO751LUJbltv0CDtQmMGoVEt1poxHlj_iEf6NqfnoFFyawbD6mnkCyOX8yq8Cn0-XaBqsdGDoNivP5VHTIxc/s96/favicon_icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwEMtUKNebF5xQqBCG0JfNExhb0Al7FKl7WADfG8B0cOCigD8Yy01ikJmzFegFIrKS39LhUKbjHTFHPPeqf_8HtcA0IYYtmssGSwaiihNzBgbIko4MvTJXKsY3omZxGJtRCBnbVt8MZR2kiBWvVYORumsEryeKpoo9KD9S8VRaBmxoDjyqBs1K3C9lYRA/s1024/favicon_icon_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOJQWDD5WH1rkhQbTiUYeX-nWKBzZssSPKpdPu5rmr2NDXYB0YZvT1C9nMwigQ80qt_HhUlWfeaTt6X6u5dalgfgb3vRtR9wkETqv2tsdTw4_uKmHRwBMrhXBm7ylflzxIhdC8cnezu8Bx8WvHtuy5NX5z_s6vTJCg9UX9qbv0xbb6pYPVtMvkwbeZffk/s1600/preview_kalkulator_harga_jual_online_mobile.jpg",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tampilan Mobile"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdUCSdEhw63XikUZRCGnowzyjHzEaERMX-aTnAtpFARoVLQInO22Ht5-8t7hbaoD9i6iGvD25QkcCqD54iSL0b9jkxfkbnCVg0iOjG1Z7pU23QvQ9EJc9iKpy_OhYCvM1I5l_7xzWXf7sTxMPFnpuPBUo38Plo7rAp09O1pBmlQqck4SAC0SntuspmcPU/s1600/preview_kalkulator_harga_jual_online.jpg",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tampilan Desktop"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Kalkulator Harga Jual Online",
+      "short_name": "Harga Online",
+      "description": "Langsung ke halaman kalkulator by selangkah lebih maju",
+      "url": "https://l5ttxobqewiyxjqoofyqtt-harga-online.blogspot.com/2025/10/6HgoHo18LaunIDkZNDPRey-harga-jual-online.html?source=shortcut",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrbtVQvGA6eVSA_ubhMOH1ndB63eMllTTEGnen1XKdsHFz9N8uQ_smVsvkNOhmy-nePU7f0cupvosFmtTbUP1Wo_6k91P23c3bcLY9E33WZTrLJIghGin60O4rZUIsrXF08FwYx4pw7GSMHak6e_qwmpGSQk0rHgZ_J0u_5h0qK7HhiqREQsiI27RH7F8/s1600/favicon_icon_192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "display_override": ["standalone", "minimal-ui"],
+  "prefer_related_applications": false,
+  "id": "https://l5ttxobqewiyxjqoofyqtt-harga-online.blogspot.com/2025/10/6HgoHo18LaunIDkZNDPRey-harga-jual-online.html",
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  }
+}
