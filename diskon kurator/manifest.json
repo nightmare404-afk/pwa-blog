@@ -1,13 +1,13 @@
 {
-  "name": "Kurator Promo Diskon",
-  "short_name": "Rp Diskon",
+  "name": "War Promo Diskon",
+  "short_name": "War Diskon",
   "start_url": "https://pjvt0vwsirhnngkyoxd57g3--diskon.blogspot.com/p/css-reset-global-styling-mengadopsi.html?source=pwa",
   "scope": "https://pjvt0vwsirhnngkyoxd57g3--diskon.blogspot.com/",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#F0F6FA",
   "theme_color": "#F0F6FA",
-  "description": "Kalkulator Kurator Promo Diskon by Selangkah Lebih Maju",
+  "description": "Kalkulator War Promo Diskon by Selangkah Lebih Maju",
   "lang": "id-ID",
   "dir": "ltr",
   "categories": ["finance", "utilities"],
@@ -67,8 +67,8 @@
   ],
   "shortcuts": [
     {
-      "name": "Kalkulator Kurator Promo Diskon",
-      "short_name": "Rp Diskon",
+      "name": "Kalkulator War Promo Diskon",
+      "short_name": "WAR Diskon",
       "description": "Langsung ke halaman kalkulator by selangkah lebih maju",
       "url": "https://pjvt0vwsirhnngkyoxd57g3--diskon.blogspot.com/p/css-reset-global-styling-mengadopsi.html?source=shortcut",
       "icons": [
@@ -85,5 +85,6 @@
   "launch_handler": {
     "client_mode": ["navigate-existing", "auto"]
   }
+
 
 }
