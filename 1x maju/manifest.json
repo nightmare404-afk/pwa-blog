@@ -13,13 +13,13 @@
   "categories": ["finance", "Article"],
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxUBf_I7TUzDDTbpOwHC6I8EuMe0BJNPdF78zyYVpj7gXS2xCryK2aBhjVpD86puX5lnsglIZoh7aRcaP8ZipJFpbapCWY8U_84YTXTxSnrgwqq9-iW6-L8aMSWyYgILb0CFH4yVPuB6o76Ij72N84YhXSoHtyjLdg0afRl9MSa2P5UGUUve-_Od5QaLU/s1600/ikon_512_v2.png",
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxUBf_I7TUzDDTbpOwHC6I8EuMe0BJNPdF78zyYVpj7gXS2xCryK2aBhjVpD86puX5lnsglIZoh7aRcaP8ZipJFpbapCWY8U_84YTXTxSnrgwqq9-iW6-L8aMSWyYgILb0CFH4yVPuB6o76Ij72N84YhXSoHtyjLdg0afRl9MSa2P5UGUUve-_Od5QaLU/s1600/ikon_512_v2.png",
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
@@ -85,5 +85,6 @@
   "launch_handler": {
     "client_mode": ["navigate-existing", "auto"]
   }
+
 
 }
