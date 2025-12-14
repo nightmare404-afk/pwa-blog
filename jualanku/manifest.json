@@ -1,0 +1,90 @@
+{
+  "name": "Hpp Jual Makanan",
+  "short_name": "HPP FnB",
+  "start_url": "https://3mgjvb1wjotxhedv2mu6ma-kalkulatorhpp.blogspot.com/2025/12/XDFZK5VGegMVINHI2nP58N-kalkulator-hpp-v2.html?source=pwa",
+  "scope": "https://3mgjvb1wjotxhedv2mu6ma-kalkulatorhpp.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F0F6FA",
+  "theme_color": "#F0F6FA",
+  "description": "Hpp Jual Makanan",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "categories": ["finance", "Tools"],
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_192.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_192.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_192.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_192.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbBjGNnb4e03cWt1l59BIVdpAloq_WMnlWXxsa7vhFIIvBBSq7wfOkhYlvFNBDr3tIJrTbJjSq1_NYvgJhueqqSAQ0G5m1N6SLWlAg72UBmuF-d8qd4P_SpZz-aD1h5bOlDl5PmBb4FJD3aw3Tuw4fWVvyTnv8ekbupzFvFU7L5TNmIbL0pnDKfLhPC58/s1920/hitunghpp_dekstop.webp",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tampilan Mobile"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn_dNZEQfWC0hY_Aq88aOZOrtx6q5qGluYkTgbPP9oll0nLnneo9gZQS0TcQo0I4YYwc22SDBv-n84nb6hOYIkHir4157ZEzRprkwz2yWPhoTNEDs0KGysPQmn_FqWOhsO-WE_R1aYmBzhKkAqS-w5GV534XxbcqCKu66eYgOl9w5wUUhRKrSl-nYkYGix/s600/hitunghpp_mobile.webp",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tampilan Desktop"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Hpp Jual Makanan",
+      "short_name": "Hpp FnB",
+      "description": "Hitung HPP untuk menentukan jual makanan",
+      "url": "https://3mgjvb1wjotxhedv2mu6ma-kalkulatorhpp.blogspot.com/2025/12/XDFZK5VGegMVINHI2nP58N-kalkulator-hpp-v2.html?source=shortcut",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrbtVQvGA6eVSA_ubhMOH1ndB63eMllTTEGnen1XKdsHFz9N8uQ_smVsvkNOhmy-nePU7f0cupvosFmtTbUP1Wo_6k91P23c3bcLY9E33WZTrLJIghGin60O4rZUIsrXF08FwYx4pw7GSMHak6e_qwmpGSQk0rHgZ_J0u_5h0qK7HhiqREQsiI27RH7F8/s1600/favicon_icon_192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "display_override": ["standalone", "minimal-ui"],
+  "prefer_related_applications": false,
+  "id": "https://3mgjvb1wjotxhedv2mu6ma-kalkulatorhpp.blogspot.com/2025/12/XDFZK5VGegMVINHI2nP58N-kalkulator-hpp-v2.html",
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  }
+
+
+}
