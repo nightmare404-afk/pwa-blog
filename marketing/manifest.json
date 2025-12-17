@@ -51,14 +51,14 @@
   ],
   "screenshots": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHkPudM3DPmTTcgU4Z6_4kpfqh7FcwR0x7wSCXlGAh_-pI30NTMj31drQur8BIbhD46d6_k7Nu-7ratYc6m05poAjBfQq2bPbYor849NOWBjUdESBF0KVIVha7Y9LPvN7IxQyExnA6LiK6qRrYLVvd0tn6icMEfcE0cStACyq-eqWRb5jDPuAdoha462k/s1600/pwa_grup_naik_kelas_mobile.webp",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsogZTMOM2iBrGVvPGtzMdF2vSbKM4m5AnGUHumVkLM_q3Ul7irppZhXjx5wZf7V0cemjQ2T1dvEzBXrz6ykFpk-6ESC4-lQ2NOF5DrjDvPAz6PNm37jxL6EjFcN7XL8VkfWx3-DtC8KrROJJktyNuFkfAg57hoysku17p4ibZ-SJENKR0u_9xINaDVdM/s1600/marketing_mobile.webp",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Tampilan Mobile"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ_-ztvCtN_Dfm8MraR5kC_wNA5wg0WcnVJ1NB8rhzxXxengCNd_2JmtY2CmJqVlS4LHo57sGYfDBVpniBtU7Jj9i2yo8XagUp-k0enDjMCTJIx4e8SgsQSFSiU1pDe1QCJIKkY9E64KbBRmlzM7q97QxgqSccvj8jjV6Q5ue80nujv_FN82y6N_HiApbZ/s1600/pwa_grup_naik_kelas.jpg",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRRiqQfUbKNmr0RsYrIHsZJqyHe9NlrRPLljz5eumd9fu5vYKB7OjvuCOo6l7PDBYJC9YcUgcwQWlgHfjr3ICguskZacL4WhHiCkCB4BNmigliVmA4v_P2IyUGLaTrqSVxwyWZ0D8xJFVXjFFkFcSvZgBHzRRhswY5HeRLqhF_e8YbtQpfatY6lbTSW5M/s1600/marketing_dekstop.webp",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
@@ -85,6 +85,7 @@
   "launch_handler": {
     "client_mode": ["navigate-existing", "auto"]
   }
+
 
 
 }
