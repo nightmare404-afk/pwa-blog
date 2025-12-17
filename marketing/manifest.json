@@ -1,0 +1,90 @@
+{
+  "name": "Orang Dalam FnB",
+  "short_name": "Ilmu Online",
+  "start_url": "https://ordal.bersamatekno.com/p/css-reset-global-styling-mengadopsi.html?source=pwa",
+  "scope": "https://ordal.bersamatekno.com/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F0F6FA",
+  "theme_color": "#F0F6FA",
+  "description": "Strategi Digital Online",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "categories": ["Marketing", "Article"],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgajIOYlr5q35rLAIPY0iVpQ3Tlz3WtaWaHcCNe6Fw89cgSnACnbhRHQmEUZ8pta8iTIz1wCzJabNitRwLjp90I02dT7fljm8_nDzLUiJJfTWKuqDRiyMwDUyB6CUlg5PRm8SAwDgVI6SL_G5jrLruEiIvpCjJfPFYdit_aj1Hi3F8BbjjcTZrACgPGBygI/s1600/favicon_blog512.webp",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1GR_3NJG-rufRVVXRCWl4h-e7i4QcalT9l09b3oM8XcdpBRrTJVndeGP5l8u8r4673ILXefsEsPefNl5RwHQTGd-WqaxUaBjcFPvBX4zjOOKnkKn9uZeXnAT7ImgeLeBDpVUDnu_IvzSJRRbP9e4kfzO0mRq959603D_5F5V58uHMNFl2pwYq3CKLzKM7/s1600/favicon_blog192.webp",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL0CRpFVrcxeWf7sbnGfB6xGz9mNETK_-lJDzn5XBOscbkw0hdEbRqg718Z4oG0kqEKdP9KwLCaZTjXxh84IIkC83s387tDGbQwZaCIgNP4HtgFOcdSn_hFWNXmtiw90JpiZYzxf86BmZYhmcT7YbkMWtkYynnYe7H4K-By-R5iPpq-sZu5ezuCoFhIp1M/s1600/favicon_blog180.webp",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwAYSnDtGgWwocCo0XkVbzrw6cZLXWZ4uk6YlwBwpEYUJ0wQKGWez4bvouGUkYbKM4EkbIoMb-DFXnSMfJ2HKwH_xa7AWLCB2KdbRCVcj1Hzz3Qxk7NdLpaP3W49-Jx6VzSbEAvCg2rmORdwY2ETRiY4wkGS0N767rdz3Jecdw9SApXpLO9R96ZIcnU0b4/s1600/favicon_blog144.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8XGgUN3yksYogomYvBmgA3VaZ72VJWwDCoBc9sDNtPkNnmdGXjj5T080lt2dI8U8QMHbBDqdQfx4VyzMrh-ENRaiJQypQosyJJKR4o72niUphRpcLMgTMoSaNof3YzDoSus2SV1pRX0NKMktOMTAQLZxZwMEBb7XDjpvbUCXfBLMDTgZ7DhNGOA4Proo/s1600/favicon_blog96.webp",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOA-Z1ELNAjDOvijqw9I3VmxYj9A06eIwCxO4SaJXn9ILVTujQ2YHpFqzjRiDcjmTekaRYTz9LEik0QX8qd1u-a_K9Z-4WT1Ufjp0o3g-aNKpOrtdp6yAApba7Far55KRDIIRMV9gWb8pZTEEF2RBOjJM43xWjHem_nG54SpVDPaLs48zBQvTWAu6WM_5I/s1600/favicon_blog1024.webp",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHkPudM3DPmTTcgU4Z6_4kpfqh7FcwR0x7wSCXlGAh_-pI30NTMj31drQur8BIbhD46d6_k7Nu-7ratYc6m05poAjBfQq2bPbYor849NOWBjUdESBF0KVIVha7Y9LPvN7IxQyExnA6LiK6qRrYLVvd0tn6icMEfcE0cStACyq-eqWRb5jDPuAdoha462k/s1600/pwa_grup_naik_kelas_mobile.webp",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tampilan Mobile"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ_-ztvCtN_Dfm8MraR5kC_wNA5wg0WcnVJ1NB8rhzxXxengCNd_2JmtY2CmJqVlS4LHo57sGYfDBVpniBtU7Jj9i2yo8XagUp-k0enDjMCTJIx4e8SgsQSFSiU1pDe1QCJIKkY9E64KbBRmlzM7q97QxgqSccvj8jjV6Q5ue80nujv_FN82y6N_HiApbZ/s1600/pwa_grup_naik_kelas.jpg",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tampilan Desktop"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Orang Dalam FnB",
+      "short_name": "Ilmu Online",
+      "description": "Strategi Digital Online",
+      "url": "https://ordal.bersamatekno.com/p/css-reset-global-styling-mengadopsi.html?source=shortcut",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1GR_3NJG-rufRVVXRCWl4h-e7i4QcalT9l09b3oM8XcdpBRrTJVndeGP5l8u8r4673ILXefsEsPefNl5RwHQTGd-WqaxUaBjcFPvBX4zjOOKnkKn9uZeXnAT7ImgeLeBDpVUDnu_IvzSJRRbP9e4kfzO0mRq959603D_5F5V58uHMNFl2pwYq3CKLzKM7/s1600/favicon_blog192.webp",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "display_override": ["standalone", "minimal-ui"],
+  "prefer_related_applications": false,
+  "id": "https://ordal.bersamatekno.com/p/css-reset-global-styling-mengadopsi.html",
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  }
+
+
+}
