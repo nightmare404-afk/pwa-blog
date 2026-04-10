@@ -1,0 +1,90 @@
+{
+  "name": "Kitab Anti Hacker",
+  "short_name": "Anti Peretas",
+  "start_url": "https://vipantibobol.blogspot.com/2026/04/artikelnnya.html?source=pwa",
+  "scope": "https://vipantibobol.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F0F6FA",
+  "theme_color": "#F0F6FA",
+  "description": "Bahas cara amankan rekening dan bahas strat",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "categories": ["finance", "Article"],
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/nightmare404-afk/pwa-blog/refs/heads/main/1x%20maju/1x_maju_ikon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7DXtUZs_pK-kRfkIDYVnRJ162XbEsrg-_yFG0esfTv3wA481IeOhA2X-55csV1iJbsLUbzDfY6mzXeJGoDIWNDPW1TvkEd0to4WzEkcmvwvBk5XcwOsuSYFcn41sGXN-13jHrY4jEROv4QoYQTDQZ1mxuzxUP1WvAvmsrEyYsVZ6uzmlObMzEc8683Fk/s1600/favicon_icon_180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDABUvLpwz8A7zyfKcf-6XisF_Vw4Q_IY6klpCS1nmjVjvOjGEAPTL2IxDUg4TsdCwlKcoowWQ11KVVte_Z4nbR1A1Dp7ZDc0rUkQUfYZKhVuCV4K7wtssTC0xnwJs1mvyfZNCbQirpS0rZEpx-Ae-KxgyJbqcs7LRW87UL6GRgKX-fAMmrXnuMorvi_4/s144/favicon_icon_144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS_NagNPUIESeVIAbRRgBdaxDBJQK1-iFfLSmexpd4xoCk24AkHpL-okcyJb5ubmwVOMd_qDgiUrzHfnITh3yhpEr_BpwbtRE66Whnf8UDO751LUJbltv0CDtQmMGoVEt1poxHlj_iEf6NqfnoFFyawbD6mnkCyOX8yq8Cn0-XaBqsdGDoNivP5VHTIxc/s96/favicon_icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwEMtUKNebF5xQqBCG0JfNExhb0Al7FKl7WADfG8B0cOCigD8Yy01ikJmzFegFIrKS39LhUKbjHTFHPPeqf_8HtcA0IYYtmssGSwaiihNzBgbIko4MvTJXKsY3omZxGJtRCBnbVt8MZR2kiBWvVYORumsEryeKpoo9KD9S8VRaBmxoDjyqBs1K3C9lYRA/s1024/favicon_icon_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHkPudM3DPmTTcgU4Z6_4kpfqh7FcwR0x7wSCXlGAh_-pI30NTMj31drQur8BIbhD46d6_k7Nu-7ratYc6m05poAjBfQq2bPbYor849NOWBjUdESBF0KVIVha7Y9LPvN7IxQyExnA6LiK6qRrYLVvd0tn6icMEfcE0cStACyq-eqWRb5jDPuAdoha462k/s1600/pwa_grup_naik_kelas_mobile.webp",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tampilan Mobile"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ_-ztvCtN_Dfm8MraR5kC_wNA5wg0WcnVJ1NB8rhzxXxengCNd_2JmtY2CmJqVlS4LHo57sGYfDBVpniBtU7Jj9i2yo8XagUp-k0enDjMCTJIx4e8SgsQSFSiU1pDe1QCJIKkY9E64KbBRmlzM7q97QxgqSccvj8jjV6Q5ue80nujv_FN82y6N_HiApbZ/s1600/pwa_grup_naik_kelas.jpg",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tampilan Desktop"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Kitab Anti Hacker",
+      "short_name": "Anti Peretas",
+      "description": "Bahas cara amankan rekening dan bahas strategi peretas",
+      "url": "https://vipantibobol.blogspot.com/2026/04/artikelnnya.html?source=shortcut",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrbtVQvGA6eVSA_ubhMOH1ndB63eMllTTEGnen1XKdsHFz9N8uQ_smVsvkNOhmy-nePU7f0cupvosFmtTbUP1Wo_6k91P23c3bcLY9E33WZTrLJIghGin60O4rZUIsrXF08FwYx4pw7GSMHak6e_qwmpGSQk0rHgZ_J0u_5h0qK7HhiqREQsiI27RH7F8/s1600/favicon_icon_192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "display_override": ["standalone", "minimal-ui"],
+  "prefer_related_applications": false,
+  "id": "https://vipantibobol.blogspot.com/2026/04/artikelnnya.html",
+  "launch_handler": {
+    "client_mode": ["navigate-existing", "auto"]
+  }
+
+
+}
